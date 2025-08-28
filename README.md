@@ -48,6 +48,16 @@ O banco de dados se chama **`livro`** e possui as seguintes tabelas:
 ### 🔹 Dashboard do Leitor
 ![Dashboard do Leitor](./02.png)
 
+### 🔹 Tela de login (funcionario)
+![Tela Criar Conta](./03.png)
+
+### 🔹 Área do Funcionário
+![Área do Funcionário](./04.png)
+
+### 🔹 are de criar uma conta para o leitor
+![Cadastro de Funcionário](./05.png)
+
+
 ---
 
 ## 🎯 Motivação
